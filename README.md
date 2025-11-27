@@ -3,7 +3,7 @@
 <h3 align="center">Quantum Cybersecurity Researcher</h3>
 
 <p align="center">
-    <img alt="Coding" width="400" src="https://ruzbahani.com/wp-content/uploads/2024/10/cropped-alimr-logo-e1728154246856.jpg">
+    <img alt="Coding" width="400" src="https://ruzbahani.com/ali_profile.png">
 </p>
 
 ### 🔭 I’m currently working on
