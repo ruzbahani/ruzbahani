@@ -82,14 +82,6 @@ With a background in Quantum Machine Learning and Cybersecurity, I’m dedicated
 ### 📊 GitHub Statistics
 <div align="center">
   <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruzbahani&theme=dark&layout=compact" alt="ruzbahani" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruzbahani&show_icons=true&theme=dark" alt="ruzbahani" />
-  </p>
-</div>
-
-### 🌟 Additional Statistics
-<div align="center">
-  <p>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruzbahani&theme=dracula" height="180em" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruzbahani&theme=dracula" height="180em" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ruzbahani&theme=dracula" height="180em" />
