@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Ruzbahani</h1>
 
-<h3 align="center">Cybersecurity Researcher (Quantum, AI, BlockChain, Decentralized and Distributed digital ledger)</h3>
+<h3 align="center">AI and Cybersecurity Researcher</h3>
+<h3 align="center">Quantum, AI, BlockChain, Decentralized and Distributed digital ledger</h3>
 
 <p align="center">
   <img alt="Ali Ruzbahani Profile" width="400" src="https://ruzbahani.com/ali_profile.png">
